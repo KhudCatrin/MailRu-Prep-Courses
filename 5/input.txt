@@ -1,0 +1,14 @@
+13
+79162501001 Petr Ivanov Semenovich Moscow 100 20
+79200001001 Igor Semenov Semenovich Ryazan 30 20
+79669901881 Oleg Nikitin Semenovich StPitersburg 100 20
+79001701088 Petr Emelyanov Semenovich Tver 100 20
+79774501001 Yan Sidorov Semenovich Minsk 100 20
+79100011001 Petr Sidorov Semenovich Moscow 300 20
+79134567101 Sasha Voloshin Semenovich Vladimir 10 0
+79174201901 Dima Sharapov Semenovich Moscow 100 20
+79203001001 Petr Melnichuk Semenovich Saratov 200 20
+79208001001 Oleg Kim Semenovich Moscow 100 20
+75678001981 Ivan Kim Semenovich Moscow 100 20
+79208010091 Hulk Kim Semenovich Moscow 100 20
+77777777777 Oleg Kim Petrovich Moscow 100 20
